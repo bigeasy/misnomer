@@ -1,0 +1,28 @@
+{
+    "name":                 "misnomer",
+    "version":              "9.9.9",
+    "description":
+
+      "A Swiss Army asynchronous control flow function for highly-parallel control flows.",
+
+    "keywords":             [],
+    "author":               "Alan Gutierrez <alan@prettyrobots.com>",
+    "homepage":             "http://bigeasy.github.com/misnomer",
+    "bugs":                 "http://bigeasy.github.com/misnomer/issues",
+    "license":              "MIT",
+    "repository":
+    {
+                            "url": "git://github.com/bigeasy/misnomer.git",
+                            "type": "git"
+    },
+    "dependencies":
+    {
+    },
+    "devDependencies":
+    {
+    },
+    "scripts":
+    {
+                            "test": "true"
+    }
+}
